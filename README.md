@@ -7,7 +7,7 @@
 
 **Introduction :**
 
-This project focuses on setting up a local Kubernetes cluster using KIND (Kubernetes IN Docker). The goal is to create a multi-node cluster, deploy the Kubernetes Dashboard, and manage the cluster efficiently.
+This project focuses on setting up a Kubernetes cluster using KIND (Kubernetes IN Docker). The goal is to create a multi-node cluster, deploy the Kubernetes Dashboard, and manage the cluster efficiently.
 
 **Objectives :**
 
